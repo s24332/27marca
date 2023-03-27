@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pokoj
   - Water
   - UI
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 4029165599
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 1888541021
+    locked: 0
+  - name: Character
+    uniqueID: 3637333357
+    locked: 0
+  - name: Foreground
+    uniqueID: 1989363993
     locked: 0
